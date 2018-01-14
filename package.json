@@ -2,10 +2,9 @@
   "name": "todo",
   "version": "0.1.0",
   "description": "todo",
-  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/todo.git"
+    "url": "git://github.com/enoughjs/todo.git"
   },
   "dependencies": {
   },

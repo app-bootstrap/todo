@@ -10,10 +10,10 @@
 
 [npm-image]: https://img.shields.io/npm/v/todo.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/todo
-[travis-image]: https://img.shields.io/travis/xudafeng/todo.svg?style=flat-square
-[travis-url]: https://travis-ci.org/xudafeng/todo
-[coveralls-image]: https://img.shields.io/coveralls/xudafeng/todo.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/xudafeng/todo?branch=master
+[travis-image]: https://img.shields.io/travis/enoughjs/todo.svg?style=flat-square
+[travis-url]: https://travis-ci.org/enoughjs/todo
+[coveralls-image]: https://img.shields.io/coveralls/enoughjs/todo.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/enoughjs/todo?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/todo.svg?style=flat-square
